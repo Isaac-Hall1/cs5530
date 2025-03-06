@@ -1,5 +1,4 @@
 .vs/ 
-wwwroot/
 node_modules/
 dist/
 # Build Folders
