@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3xcFjn3IfeYVXXHeR2gu4Hw4HnYn1JAzcZgYIPE7qcM=",
+  "Hash": "bJnVtnXkl6AS8wNg2LTn1b5qWj4ykLvMmQqfSBYwzIs=",
   "Source": "ChessBrowser",
   "BasePath": "_content/ChessBrowser",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ChessBrowser\\wwwroot",
       "Source": "ChessBrowser",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\",
       "BasePath": "_content/ChessBrowser",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\c04ezgd4b0-jgv57k5d00.gz",
+      "Identity": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\c04ezgd4b0-jgv57k5d00.gz",
       "SourceId": "ChessBrowser",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ChessBrowser",
       "RelativePath": "ChessBrowser#[.{fingerprint=jgv57k5d00}]?.styles.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css",
+      "RelatedAsset": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "cvz64lgz52",
       "Integrity": "6EzkhR6hVnWiaPF+yKkSKJmZjA4jfToWu1PNkMDIJcI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\cf0bba99k0-jgv57k5d00.gz",
+      "Identity": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\cf0bba99k0-jgv57k5d00.gz",
       "SourceId": "ChessBrowser",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ChessBrowser",
       "RelativePath": "ChessBrowser#[.{fingerprint=jgv57k5d00}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "cvz64lgz52",
       "Integrity": "6EzkhR6hVnWiaPF+yKkSKJmZjA4jfToWu1PNkMDIJcI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\e00whjnszc-8inm30yfxf.gz",
+      "Identity": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\e00whjnszc-8inm30yfxf.gz",
       "SourceId": "ChessBrowser",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ChessBrowser",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
       "AssetKind": "All",
@@ -70,41 +70,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "RelatedAsset": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "fbl5ivwo6k",
       "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\nvhxbj7ops-da95v2qkru.gz",
+      "Identity": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\nvhxbj7ops-v5b7vqvy3h.gz",
       "SourceId": "ChessBrowser",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ChessBrowser",
-      "RelativePath": "app#[.{fingerprint=da95v2qkru}]?.css.gz",
+      "RelativePath": "app#[.{fingerprint=v5b7vqvy3h}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\app.css",
+      "RelatedAsset": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7xjk2sttc7",
-      "Integrity": "JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=",
+      "Fingerprint": "31ram69swo",
+      "Integrity": "qRou84RVPGCbvptD14VhlZETsWIbZ+Yy4p9a30vskA0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\app.css"
+      "OriginalItemSpec": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\zrqjv5f7ew-bpk8xqwxhs.gz",
+      "Identity": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\zrqjv5f7ew-bpk8xqwxhs.gz",
       "SourceId": "ChessBrowser",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ChessBrowser",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint=bpk8xqwxhs}]?.css.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "RelatedAsset": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "n422kv52tm",
       "Integrity": "R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css",
+      "Identity": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css",
       "SourceId": "ChessBrowser",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ChessBrowser",
       "RelativePath": "ChessBrowser#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -140,13 +140,13 @@
       "Integrity": "g/Vw/qzBrzQR+CvLQTrmGsMGhVQX2kJ7mkwqSpe/3XI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css",
+      "Identity": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css",
       "SourceId": "ChessBrowser",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ChessBrowser",
       "RelativePath": "ChessBrowser#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -161,13 +161,13 @@
       "Integrity": "g/Vw/qzBrzQR+CvLQTrmGsMGhVQX2kJ7mkwqSpe/3XI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\app.css",
       "SourceId": "ChessBrowser",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\",
       "BasePath": "_content/ChessBrowser",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -178,17 +178,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "da95v2qkru",
-      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "Fingerprint": "v5b7vqvy3h",
+      "Integrity": "Q8siP9SiZV8GNOzlkHETapY6R/XrhQbE90aAnlHmHFo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "ChessBrowser",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\",
       "BasePath": "_content/ChessBrowser",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ChessBrowser",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\",
       "BasePath": "_content/ChessBrowser",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\favicon.png",
       "SourceId": "ChessBrowser",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\",
       "BasePath": "_content/ChessBrowser",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -251,12 +251,12 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\nvhxbj7ops-da95v2qkru.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\nvhxbj7ops-v5b7vqvy3h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000693000693"
+          "Quality": "0.000697350070"
         }
       ],
       "ResponseHeaders": [
@@ -266,15 +266,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1442"
+          "Value": "1433"
         },
         {
           "Name": "ETag",
-          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+          "Value": "\"qRou84RVPGCbvptD14VhlZETsWIbZ+Yy4p9a30vskA0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -294,19 +294,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+          "Value": "W/\"Q8siP9SiZV8GNOzlkHETapY6R/XrhQbE90aAnlHmHFo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+          "Value": "sha256-Q8siP9SiZV8GNOzlkHETapY6R/XrhQbE90aAnlHmHFo="
         }
       ]
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -315,7 +315,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2591"
+          "Value": "2540"
         },
         {
           "Name": "Content-Type",
@@ -323,11 +323,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+          "Value": "\"Q8siP9SiZV8GNOzlkHETapY6R/XrhQbE90aAnlHmHFo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -337,13 +337,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+          "Value": "sha256-Q8siP9SiZV8GNOzlkHETapY6R/XrhQbE90aAnlHmHFo="
         }
       ]
     },
     {
       "Route": "app.css.gz",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\nvhxbj7ops-da95v2qkru.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\nvhxbj7ops-v5b7vqvy3h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -352,7 +352,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1442"
+          "Value": "1433"
         },
         {
           "Name": "Content-Type",
@@ -360,11 +360,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+          "Value": "\"qRou84RVPGCbvptD14VhlZETsWIbZ+Yy4p9a30vskA0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -382,18 +382,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc="
+          "Value": "sha256-qRou84RVPGCbvptD14VhlZETsWIbZ+Yy4p9a30vskA0="
         }
       ]
     },
     {
-      "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\nvhxbj7ops-da95v2qkru.gz",
+      "Route": "app.v5b7vqvy3h.css",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\nvhxbj7ops-v5b7vqvy3h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000693000693"
+          "Quality": "0.000697350070"
         }
       ],
       "ResponseHeaders": [
@@ -403,15 +403,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1442"
+          "Value": "1433"
         },
         {
           "Name": "ETag",
-          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+          "Value": "\"qRou84RVPGCbvptD14VhlZETsWIbZ+Yy4p9a30vskA0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -431,13 +431,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+          "Value": "W/\"Q8siP9SiZV8GNOzlkHETapY6R/XrhQbE90aAnlHmHFo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "da95v2qkru"
+          "Value": "v5b7vqvy3h"
         },
         {
           "Name": "label",
@@ -445,13 +445,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+          "Value": "sha256-Q8siP9SiZV8GNOzlkHETapY6R/XrhQbE90aAnlHmHFo="
         }
       ]
     },
     {
-      "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\app.css",
+      "Route": "app.v5b7vqvy3h.css",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -460,7 +460,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2591"
+          "Value": "2540"
         },
         {
           "Name": "Content-Type",
@@ -468,11 +468,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+          "Value": "\"Q8siP9SiZV8GNOzlkHETapY6R/XrhQbE90aAnlHmHFo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -482,7 +482,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "da95v2qkru"
+          "Value": "v5b7vqvy3h"
         },
         {
           "Name": "label",
@@ -490,13 +490,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+          "Value": "sha256-Q8siP9SiZV8GNOzlkHETapY6R/XrhQbE90aAnlHmHFo="
         }
       ]
     },
     {
-      "Route": "app.da95v2qkru.css.gz",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\nvhxbj7ops-da95v2qkru.gz",
+      "Route": "app.v5b7vqvy3h.css.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\nvhxbj7ops-v5b7vqvy3h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -505,7 +505,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1442"
+          "Value": "1433"
         },
         {
           "Name": "Content-Type",
@@ -513,11 +513,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+          "Value": "\"qRou84RVPGCbvptD14VhlZETsWIbZ+Yy4p9a30vskA0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -535,7 +535,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "da95v2qkru"
+          "Value": "v5b7vqvy3h"
         },
         {
           "Name": "label",
@@ -543,13 +543,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc="
+          "Value": "sha256-qRou84RVPGCbvptD14VhlZETsWIbZ+Yy4p9a30vskA0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\zrqjv5f7ew-bpk8xqwxhs.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\zrqjv5f7ew-bpk8xqwxhs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -572,7 +572,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -612,7 +612,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -633,7 +633,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -657,7 +657,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css.gz",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\zrqjv5f7ew-bpk8xqwxhs.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\zrqjv5f7ew-bpk8xqwxhs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -678,7 +678,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -710,7 +710,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\zrqjv5f7ew-bpk8xqwxhs.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\zrqjv5f7ew-bpk8xqwxhs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -733,7 +733,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -765,7 +765,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -786,7 +786,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -802,7 +802,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\e00whjnszc-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\e00whjnszc-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -825,7 +825,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -865,7 +865,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -886,7 +886,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -910,7 +910,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\e00whjnszc-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\e00whjnszc-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -931,7 +931,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -963,7 +963,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.gz",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\zrqjv5f7ew-bpk8xqwxhs.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\zrqjv5f7ew-bpk8xqwxhs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -984,7 +984,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1008,7 +1008,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\e00whjnszc-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\e00whjnszc-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1031,7 +1031,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1063,7 +1063,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1084,7 +1084,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1100,7 +1100,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map.gz",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\e00whjnszc-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\e00whjnszc-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1121,7 +1121,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1145,7 +1145,7 @@
     },
     {
       "Route": "ChessBrowser.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\cf0bba99k0-jgv57k5d00.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\cf0bba99k0-jgv57k5d00.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1168,7 +1168,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1200,7 +1200,7 @@
     },
     {
       "Route": "ChessBrowser.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1221,7 +1221,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1237,7 +1237,7 @@
     },
     {
       "Route": "ChessBrowser.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\cf0bba99k0-jgv57k5d00.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\cf0bba99k0-jgv57k5d00.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1258,7 +1258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1282,7 +1282,7 @@
     },
     {
       "Route": "ChessBrowser.jgv57k5d00.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\cf0bba99k0-jgv57k5d00.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\cf0bba99k0-jgv57k5d00.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1305,7 +1305,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1345,7 +1345,7 @@
     },
     {
       "Route": "ChessBrowser.jgv57k5d00.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1366,7 +1366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1390,7 +1390,7 @@
     },
     {
       "Route": "ChessBrowser.jgv57k5d00.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\cf0bba99k0-jgv57k5d00.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\cf0bba99k0-jgv57k5d00.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1411,7 +1411,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1443,7 +1443,7 @@
     },
     {
       "Route": "ChessBrowser.jgv57k5d00.styles.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\c04ezgd4b0-jgv57k5d00.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\c04ezgd4b0-jgv57k5d00.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1466,7 +1466,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1506,7 +1506,7 @@
     },
     {
       "Route": "ChessBrowser.jgv57k5d00.styles.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1527,7 +1527,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1551,7 +1551,7 @@
     },
     {
       "Route": "ChessBrowser.jgv57k5d00.styles.css.gz",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\c04ezgd4b0-jgv57k5d00.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\c04ezgd4b0-jgv57k5d00.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1572,7 +1572,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1604,7 +1604,7 @@
     },
     {
       "Route": "ChessBrowser.styles.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\c04ezgd4b0-jgv57k5d00.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\c04ezgd4b0-jgv57k5d00.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1627,7 +1627,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1659,7 +1659,7 @@
     },
     {
       "Route": "ChessBrowser.styles.css",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ChessBrowser.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1680,7 +1680,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1696,7 +1696,7 @@
     },
     {
       "Route": "ChessBrowser.styles.css.gz",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\c04ezgd4b0-jgv57k5d00.gz",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\compressed\\c04ezgd4b0-jgv57k5d00.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1717,7 +1717,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 06:50:10 GMT"
+          "Value": "Thu, 06 Mar 2025 07:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1741,7 +1741,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1762,7 +1762,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1786,7 +1786,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1807,7 +1807,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 05:18:37 GMT"
+          "Value": "Thu, 06 Mar 2025 07:49:00 GMT"
         },
         {
           "Name": "Cache-Control",

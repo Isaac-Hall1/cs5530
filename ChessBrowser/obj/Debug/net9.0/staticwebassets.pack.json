@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css",
+      "Id": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ChessBrowser.bundle.scp.css",
       "PackagePath": "staticwebassets\\ChessBrowser.jgv57k5d00.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

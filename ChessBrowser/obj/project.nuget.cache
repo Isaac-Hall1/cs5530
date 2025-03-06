@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gT3j/OxkgdM=",
+  "dgSpecHash": "RVobwU8ism0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isaac\\Downloads\\ChessBrowser\\ChessBrowser\\ChessBrowser.csproj",
+  "projectFilePath": "C:\\Users\\Isaac\\Source\\Repos2\\cs5530\\ChessBrowser\\ChessBrowser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Isaac\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Isaac\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
