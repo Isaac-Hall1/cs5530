@@ -1,7 +1,0 @@
-C:\Users\Isaac\Source\Repos2\cs5530\ChessBrowser\wwwroot\bootstrap\bootstrap.min.css.map
-C:\Users\Isaac\Source\Repos2\cs5530\ChessBrowser\wwwroot\app.css
-C:\Users\Isaac\Source\Repos2\cs5530\ChessBrowser\wwwroot\bootstrap\bootstrap.min.css
-wwwroot\app.css
-wwwroot\bootstrap\bootstrap.min.css
-wwwroot\bootstrap\bootstrap.min.css.map
-wwwroot\favicon.png
