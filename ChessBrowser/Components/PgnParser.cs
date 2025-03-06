@@ -17,7 +17,7 @@ namespace ChessBrowser.Components
             {
                 return null;
             }
-            Console.WriteLine("hello");
+            // hello
             string pgnContent = File.ReadAllText(filePath);
             List<ChessGame> games = parseGames(pgnContent);
 

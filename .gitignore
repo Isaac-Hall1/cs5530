@@ -1,1 +1,47 @@
 .vs/ 
+wwwroot/
+node_modules/
+dist/
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+*.user
+*.vs/
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.ide
+
+# Logs & Debugging
+*.log
+*.tlog
+*.lastcodeanalysissucceeded
+*.pdb
+
+# Package & Dependencies
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Rider and JetBrains IDE
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Resharper
+*.DotSettings.user
+
+# Entity Framework Migrations
+Migrations/
+
+# ASP.NET
+appsettings.Development.json
+secrets.json
+
+# NuGet
+.nuget/
