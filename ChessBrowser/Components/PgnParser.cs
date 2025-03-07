@@ -1,8 +1,4 @@
-﻿
-
-
-using Microsoft.AspNetCore.Mvc.Diagnostics;
-using MySqlX.XDevAPI.Common;
+﻿using System.Text;
 
 namespace ChessBrowser.Components
 {
@@ -11,15 +7,9 @@ namespace ChessBrowser.Components
         /// <summary>
         /// This method takes in a pgn file and returns a list of chess games
         /// </summary>
-        public static List<ChessGame> readPGN(string filePath)
+        public static List<ChessGame> readPGN(string[] file)
         {
-            if (!File.Exists(filePath))
-            {
-                return null;
-            }
-            // hello
-            string pgnContent = File.ReadAllText(filePath);
-            List<ChessGame> games = parseGames(pgnContent);
+            List<ChessGame> games = parseGames(file);
 
             // returns list<chessgames>
             return games;
@@ -52,16 +42,16 @@ namespace ChessBrowser.Components
         /// </summary>
         /// <param name="pgnContent"></param>
         /// <returns>List<ChessGame></returns>
-        static List<ChessGame> parseGames(string pgnContent)
+        static List<ChessGame> parseGames(string[] pgnContent)
         {
             // all of the possible tags
-            HashSet<string> tags = new HashSet<string> { "Event", "Site", "Date", "Round", "White", "Black", "Result", "WhiteElo", "BlackElo", "EventDate" };
+            HashSet<string> tags = new HashSet<string> { "Event", "Site", "Round", "White", "Black", "Result", "WhiteElo", "BlackElo", "EventDate" };
             int emptyLineCount = 0;
-            string Moves = "";
+            StringBuilder Moves = new StringBuilder();
             List<ChessGame> games = new List<ChessGame>();
             ChessGame game = new ChessGame();
 
-            foreach (string line in pgnContent.Split('\n'))
+            foreach (string line in pgnContent)
             {
                 if (line.StartsWith("["))
                 {
@@ -77,12 +67,13 @@ namespace ChessBrowser.Components
                 }
                 else
                 {
-                    Moves += line;
+                    Moves.AppendLine(line);
                 }
                 if (emptyLineCount == 2)
                 {
                     emptyLineCount = 0;
-                    game.Moves = Moves;
+                    game.Moves = Moves.ToString();
+                    Moves = new StringBuilder();
                     CleanDirtyData(game);
                     games.Add(game);
                     game = new ChessGame();
